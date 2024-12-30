@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Hello.DaPOPE": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
